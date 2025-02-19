@@ -1,2 +1,4 @@
 # Striver-A2Z-DSA
-DSA Practice with Striver's A2Z Program
+
+### [19 Feb 2025] 
+	- Largest Element in the Array.
